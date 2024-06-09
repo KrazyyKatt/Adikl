@@ -1,0 +1,42 @@
+Alfa Romeo 147 1.6 TS Body, Model and Production details
+Body : 	Hatchback
+Num. of Doors : 	5 doors
+Alfa Romeo 147 1.6 TS Engine Technical Data Alfa Romeo 147 1.6 TS Engine Technical Data
+Engine type - Number of cylinders : 	Inline 4
+Engine Code : 	AR32104
+Fuel type : 	Petrol
+Fuel System : 	Bosch Motronic ME 7
+Lubrication : 	
+Wet sump Lubrication
+Engine Cooling - Capacity : 	6.8 L / 7.19 quarts
+Engine Alignment : 	Transverse
+Engine Position : 	Front
+Engine displacement : 	1598 cm3 / 97.5 cu-in
+Bore x Stroke : 	82 x 75.65 mm
+3.23 x 2.98 inches
+Number of valves : 	16 Valves
+Aspiration : 	naturally-aspirated
+Compression Ratio : 	10.3
+Horsepower : 	120 PS / 118 HP / 88 kW
+@ 6200 rpm
+Maximum torque : 	146 Nm / 107 lb-ft
+@ 4200 rpm
+Drive wheels - Traction - Drivetrain : 	FWD
+Transmission Gearbox - Number of speeds : 	
+5 speed Manual Transmission Gearbox - Number of speeds
+Alfa Romeo 147 1.6 TS Fuel Consumption (Economy), Emissions and Range Alfa Romeo 147 1.6 TS Fuel Consumption (Economy), Emissions and Range
+Fuel Consumption - Economy - Combined: 	8.2 L/100 km
+34 MPG UK
+29 MPG US
+Fuel Consumption - Economy - Open road: 	6.4 L/100 km
+44 MPG UK
+37 MPG US
+Fuel Consumption - Economy - City: 	11.2 L/100 km
+25 MPG UK
+21 MPG US
+Range : 	731 km / 454 miles
+Fuel Tank Capacity : 	60 L
+15.9 US gallons
+13.2 UK gallons
+CO2 emissions : 	194.1 g/km (Alfa Romeo)
+Catalytic converter : 	Y 
